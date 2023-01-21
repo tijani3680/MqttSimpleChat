@@ -160,7 +160,6 @@ class MqttActivity : AppCompatActivity() {
                     //
                     // val oneMessage = "{\"id\": \"$CURRENTACCOUNT\",\"message\": \"$message\"}"
                     // myChatEntitys.add(oneMessage)
-                    // Log.d("Tijanijoniidid", "$myChatEntitys")
                     mqttManager2.sendMessage(finalMessageList)
                 }
             }
