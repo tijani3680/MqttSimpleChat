@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMQTT1</string>
+
+    <string-array name="account_array">
+        <item>Person 1</item>
+        <item>Person 2</item>
+    </string-array>
+</resources>
